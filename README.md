@@ -6,7 +6,6 @@ Faça um programa para ler dois valores inteiros, e depois mostrar na tela a som
 mensagem explicativa, conforme exemplos.
 
 * Exercício 02
-  
 Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
 casas decimais conforme exemplos.
 
