@@ -6,9 +6,8 @@ Faça um programa para ler dois valores inteiros, e depois mostrar na tela a som
 mensagem explicativa, conforme exemplos.
 
 * Exercício 02
-
- Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
- casas decimais conforme exemplos.
+Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro
+casas decimais conforme exemplos.
 
 * Exercício 03
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto
