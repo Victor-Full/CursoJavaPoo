@@ -4,7 +4,6 @@ Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
 * Exercício 01 -
 Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 mensagem explicativa, conforme exemplos.
-
 Resposta - https://github.com/Victor-Full/CursoJavaPoo/blob/main/EstruturaSequencial/src/atividade/Exercicio01.java
 
 * Exercício 02 -
